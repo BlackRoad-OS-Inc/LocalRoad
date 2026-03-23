@@ -1,3 +1,11 @@
+# LocalRoad
+
+> Road Fleet: LocalRoad — Self-hosted AI inference — OpenAI/Claude alternative. PROPRIETARY BlackRoad OS integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <h1 align="center">
   <br>
   <img width="300" src="./core/http/static/logo.png"> <br>
@@ -363,7 +371,7 @@ If you utilize this repository, data in a downstream project, please consider ci
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/go-skynet/LocalAI}},
+  howpublished = { rl{https://github.com/go-skynet/LocalAI}},
 ```
 
 ## ❤️ Sponsors
